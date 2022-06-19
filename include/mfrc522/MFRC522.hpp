@@ -2,6 +2,7 @@
 
 #include <wiringPi.h>
 #include <wiringPiSPI.h>
+#include <stdint.h>
 #include <string>
 
 #define RPI_V2_GPIO_P1_22 25
